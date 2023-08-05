@@ -1,8 +1,5 @@
-1;Orion;Daily Meeting;04/04/2023;10:30;Talking about what it is done;Every teams employee must attend
-2;Doremigos;Daily Meeting;04/04/2023;10:30;Talking about what it is done;Every teams employee must attend
-3;Rocket;Daily Meeting;04/04/2023;10:30;Talking about what it is done;Every teams employee must attend
-4;Prensesler;Çay saati;24.07.2023 00:00:00;24.07.2023 10:30:00;toplantı toplantı toplantı;bla bla bla bla bla
-5;string;string;24.07.2023 11:00:12;24.07.2023 11:30:12;string;stringstring;string;27.07.2025 13:21:50;27.07.2023 13:21:50;string;string
-6;ststst;string;27.07.2023 13:21:50;27.07.2025 13:21:50;string;string
-8;string;string;27.07.2023 13:26:24;27.07.2023 13:26:24;string;string
-13;Test;DeleteTest;28.07.2023 08:37:30;28.07.2023 08:37:30;Delete basarili mi?;Bakalım basarili mi..
+1;Orion;Daily;1.08.2023 13:47:32;1.08.2023 13:47;Günlük İş Dağılımı;Her. bir kişinin yaptıkları ve yapacakları konuşulacak...🌟 🤠
+2;Doremigos;Daily;1.08.2023 13:47:32;1.08.2023 13:47;Günlük İş Dağılımı;-Her bir kişinin yaptıkları ve yapacakları konuşulacak...👌😎
+3;Platinium;Daily;1.08.2023 13:47:32;1.08.2023 13:47;Günlük İş Dağılımı;-Her bir kişinin yaptıkları ve yapacakları konuşulacak...🫶 🥰
+4;Roket;Daily;1.08.2023 13:47:32;1.08.2023 13:47;Günlük İş Dağılımı;-Her bir kişinin yaptıkları ve yapacakları konuşulacak... 🚀 🔥 ☀️ 
+5;Mobil;Daily;1.08.2023 13:47:32;1.08.2023 13:47;Günlük İş Dağılımı;-Her bir kişinin yaptıkları ve yapacakları konuşulacak... 🏦 📱
