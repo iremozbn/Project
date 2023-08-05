@@ -13,6 +13,7 @@ namespace Application.Models
     }
     public class LoginResponse
     {
+        public bool IsManager { get; set; }
         public bool IsSuccessfull { get; set; }
         public string Message { get; set; }
         public bool IsBirthday { get; set; }
