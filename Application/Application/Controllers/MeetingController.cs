@@ -243,7 +243,7 @@ namespace Application.Controllers
         }
 
      [HttpPost("SearchMeeting")]
-        public IActionResult SearchMeeting(SearchRequest searchRequest)
+        public IActionResult SearchMeeting(SearcMeetingRequest searchRequest)
         {
             try
             {
@@ -251,8 +251,7 @@ namespace Application.Controllers
 
                 // Ekip adı ve toplantı türü aramak için verileri alalım
                 string searchTeamName = searchRequest.TeamName;
-                string searchMeetingName = searchRequest.MeetingName;
-
+                List<MeetingResponse> foundMeeting = new();
                 for (int i = 0; i < meetings.Length; i++)
                 {
                     string meetingText = meetings[i];
@@ -260,12 +259,10 @@ namespace Application.Controllers
 
                     if (values.Length >= 2)
                     {
-                        // Ekip adı veya toplantı türüne göre arama yapalım
-                        if ((string.IsNullOrEmpty(searchTeamName) || values[1].Contains(searchTeamName)) ||
-                            (string.IsNullOrEmpty(searchMeetingName) || values[2].Contains(searchMeetingName)))
+                        if (string.IsNullOrEmpty(searchTeamName) || values[1].IndexOf(searchTeamName, StringComparison.OrdinalIgnoreCase) >= 0)
                         {
-                            // Toplantı verisini oluşturup geri dönelim
-                            MeetingResponse foundMeeting = new MeetingResponse
+
+                            MeetingResponse foundMeet = new()
                             {
                                 Id = Int32.Parse(values[0]),
                                 IsMeeting = true,
@@ -277,9 +274,13 @@ namespace Application.Controllers
                                 MeetingContent = values[6]
                             };
 
-                            return Ok(foundMeeting);
+                            foundMeeting.Add(foundMeet);
                         }
                     }
+                }
+                if (foundMeeting.Count > 0)
+                {
+                    return Ok(foundMeeting);
                 }
 
                 // Toplantı bulunamazsa NotFound döndürelim
