@@ -1,2 +1,17 @@
 # Project Meeting And Event App
-Vakıfbank Staj
+Vakıfbank Staj süresince yaptığımız projenin görüntüleri aşağıda yer almaktadır.
+(https://github.com/iremozbn/Project/assets/56583531/506fe2bc-caf1-4230-b77d-2d55fb9305a0)
+(https://github.com/iremozbn/Project/assets/56583531/b78e27d5-5ff3-4825-a3c4-fd3671ef332a)
+(https://github.com/iremozbn/Project/assets/56583531/005a2e55-1ab1-49f0-8d03-af128804843e)
+(https://github.com/iremozbn/Project/assets/56583531/a870015d-60e2-4327-aed5-67133e605de8)
+(https://github.com/iremozbn/Project/assets/56583531/2985bd07-e69d-4421-b5d3-7c7633ea4303)
+(https://github.com/iremozbn/Project/assets/56583531/8978e7d0-b4d3-40c4-9c51-463bc1e06c66)
+(https://github.com/iremozbn/Project/assets/56583531/7e139e29-34c2-4291-9630-993f28aadaa8)
+(https://github.com/iremozbn/Project/assets/56583531/36dfd5cc-baf7-4192-83a5-459a15c4b312)
+(https://github.com/iremozbn/Project/assets/56583531/9b4f89c2-ad9b-474f-900e-d15ca09a6c7e)
+(https://github.com/iremozbn/Project/assets/56583531/7ef3e74c-4d7c-4fd8-b94d-84a803ba17db)
+(https://github.com/iremozbn/Project/assets/56583531/28caa707-8c2f-4738-99f2-3e600a793e60)
+https://github.com/iremozbn/Project/assets/56583531/a3333b48-7b97-4799-8fff-7425bfbbc0d8)
+(https://github.com/iremozbn/Project/assets/56583531/d7dbe78f-1511-4f5d-bf6f-e310365841f6)
+(https://github.com/iremozbn/Project/assets/56583531/5353c79f-3b48-49ba-99ef-ac06c8307dcb)
+(https://github.com/iremozbn/Project/assets/56583531/0e0c6a31-31cb-4eea-ad4b-398e31088c9b)
